@@ -1,0 +1,3 @@
+/Users/greshnikovps/CLionProjects/gptTraiding/cmake-build-debug/CMakeFiles/gptTraiding.dir
+/Users/greshnikovps/CLionProjects/gptTraiding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/greshnikovps/CLionProjects/gptTraiding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

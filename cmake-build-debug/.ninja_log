@@ -1,0 +1,6 @@
+# ninja log v5
+4	685	1683141640620530503	CMakeFiles/gptTraiding.dir/TradingStrategy.cpp.o	6e844bfc80bb1702
+2	598	1683141653863849781	CMakeFiles/gptTraiding.dir/Visualizer.cpp.o	e02555e2057aad80
+4	564	1683142394816183922	CMakeFiles/gptTraiding.dir/TradingStrategy.cpp.o	6e844bfc80bb1702
+2	693	1683142402025099354	CMakeFiles/gptTraiding.dir/StrategyTester.cpp.o	6fde3d90ccd7346a
+2	684	1683142943028616104	CMakeFiles/gptTraiding.dir/MovingAverageStrategy.cpp.o	9f9fa91d083c1db1
